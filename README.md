@@ -2,7 +2,7 @@
 
 Created with love by: <Ngan Nguyen>
   
-[One or two sentence summary of your project]. 
+https://playing-binary-num.netlify.com
 
 ## Video Walkthrough
 
